@@ -13,6 +13,22 @@
                         <key>url</key>
                         <string>https://github.com/Coder7777/ionic_repo/raw/main/salesapp.ipa</string>
                     </dict>
+                    <dict>
+                       <key>kind</key>
+                       <string>display-image</string>
+                       <key>needs-shine</key>
+                       <integer>0</integer>
+                       <key>url</key>
+                       <string><![CDATA[https://github.com/Coder7777/ionic_repo/raw/main/salesapp.png]]></string>
+                     </dict>
+                     <dict>
+                       <key>kind</key>
+                       <string>full-size-image</string>
+                       <key>needs-shine</key>
+                       <true/>
+                       <key>url</key>
+                       <string><![CDATA[https://github.com/Coder7777/ionic_repo/raw/main/salesapp.png]]></string>
+                     </dict>
                 </array>
                 <key>metadata</key>
                 <dict>
